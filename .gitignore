@@ -1,0 +1,9 @@
+node_modules
+dist
+lib
+es
+pnpm-lock.yaml
+.vscode
+.DS_Store
+.pnpm-debug.log
+.parcel-cache
